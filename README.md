@@ -2,12 +2,14 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Pedro Augusto Noronha Palumbo
+Matricula: 915705
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![imagem network](images/Captura%20de%20tela%202026-03-12%20194020.png)
+![imagem index](images/Captura%20de%20tela%202026-03-12%20200735.png)
 
 
 
